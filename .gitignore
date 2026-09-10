@@ -93,3 +93,4 @@ crash.*.log
 .local-state-backups/
 
 __pycache__/
+.copilot-specs-cache/
